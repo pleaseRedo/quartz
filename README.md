@@ -1,6 +1,6 @@
 # Quartz Site
 
-This repository is the **main Quartz site repo**.
+This repository is the **main Quartz site repo**: https://quartz.jialinyu.com/.
 
 It is responsible for:
 

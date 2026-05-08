@@ -110,6 +110,9 @@ The sync script applies these rules:
 
 ---
 
+## Obsidian quick add tag
+Using `alt + e` choosing a `blog` template
+
 ## Run content sync
 
 From the root of this repo:
